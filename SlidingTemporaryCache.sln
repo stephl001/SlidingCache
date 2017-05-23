@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingTemporaryCache", "SlidingTemporaryCache\SlidingTemporaryCache.csproj", "{3FA683B3-BE74-4F06-97E6-AB49F6B65149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingCacheTests", "SlidingCacheTests\SlidingCacheTests.csproj", "{2119A70A-88D8-4CA4-88DA-6761BA61AA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA683B3-BE74-4F06-97E6-AB49F6B65149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA683B3-BE74-4F06-97E6-AB49F6B65149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA683B3-BE74-4F06-97E6-AB49F6B65149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA683B3-BE74-4F06-97E6-AB49F6B65149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2119A70A-88D8-4CA4-88DA-6761BA61AA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2119A70A-88D8-4CA4-88DA-6761BA61AA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2119A70A-88D8-4CA4-88DA-6761BA61AA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2119A70A-88D8-4CA4-88DA-6761BA61AA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
